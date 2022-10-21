@@ -17,3 +17,8 @@ O programa deverá pedir por um valor em metros e então dar a opção de escolh
 O programa deve então converter a medida de acordo com a opção escolhida e exibir o resultado.
 
 O programa também deve exibir uma mensagem de “Opção inválida” caso o usuário insira uma opção diferente das disponíveis.
+
+-------------------------------------------------------------
+
+##### Deploy - https://werricsson-santos.github.io/Exercicio-JavaScript-ConversorDeMedidas/
+
